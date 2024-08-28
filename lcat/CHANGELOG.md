@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.7.15](https://github.com/mazznoer/lcat-rs/compare/lcat-v0.7.14...lcat-v0.7.15) - 2024-08-28
+
+### Other
+- *(deps)* update rust crate fastrand to 2.1.1
+
 ## [0.7.14](https://github.com/davidkna/lcat-rs/compare/lcat-v0.7.13...lcat-v0.7.14) - 2024-08-16
 
 ### Other
