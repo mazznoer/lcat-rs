@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.12](https://github.com/mazznoer/lcat-rs/compare/lolcow-fortune-v0.1.11...lolcow-fortune-v0.1.12) - 2024-08-28
+
+### Other
+- *(deps)* update rust crate flate2 to 1.0.33
+- *(deps)* update rust crate fastrand to 2.1.1
+- *(deps)* update rust crate flate2 to 1.0.32
+
 ## [0.1.11](https://github.com/davidkna/lcat-rs/compare/lolcow-fortune-v0.1.10...lolcow-fortune-v0.1.11) - 2024-08-16
 
 ### Other
